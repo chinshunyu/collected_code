@@ -1,0 +1,9 @@
+2023-06-17 21:17:12 [INFO] Running PandasAI with openai LLM...
+2023-06-17 21:17:12 [INFO] Prompt ID: 87e10dd8-1024-4912-b7a5-605c646b380f
+2023-06-17 21:17:12 [INFO] error_code=None error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-06-17 21:17:12 [INFO] Running PandasAI with openai LLM...
+2023-06-17 21:17:12 [INFO] Prompt ID: dc546154-0988-4781-8736-42913678ea3e
+2023-06-17 21:17:13 [INFO] error_code=None error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-06-17 21:17:13 [INFO] Running PandasAI with openai LLM...
+2023-06-17 21:17:13 [INFO] Prompt ID: 8698fefc-d470-4490-ad19-9531fb5d1e45
+2023-06-17 21:17:13 [INFO] error_code=None error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
